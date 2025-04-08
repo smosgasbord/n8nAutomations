@@ -227,7 +227,7 @@
     },
     {
       "parameters": {
-        "jsonSchemaExample": "{\n  \"topTenSubjects\": [\n    \"Cities in the US\",\n    \"Breakfast meals\",\n    \"Clothing brands\",\n    \"Fictional villains\",\n    \"Luxury cars\",\n    \"Fast food chains\",\n    \"Theme parks\",\n    \"Mobile apps\",\n    \"Board games\",\n    \"Movie soundtracks\"\n  ]\n}\n"
+        "jsonSchemaExample": "{\n  \"topFiveSubjects\": [\n    \"Cities in the US\",\n    \"Breakfast meals\",\n    \"Clothing brands\",\n    \"Fictional villains\",\n    \"Luxury cars\"\n ]\n}\n"
       },
       "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
       "typeVersion": 1.2,
